@@ -1,4 +1,4 @@
-# Reference Maps for Azure Maps  
+# Reference Layers for Azure Maps  
 
 With the release of Power BI September edition, Azure Maps now supports dynamic reference labels. This can only be accomplished by using URL address for the reference layer. One can also pass in parameters to the URL to dynamically control layers.  
 
