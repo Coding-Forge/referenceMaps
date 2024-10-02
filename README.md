@@ -6,5 +6,7 @@ The following maps are publicly available to use for demonstration puruposes. Th
 ![Reference Layers](./images/ReferenceLayers.png)  
 You will need to click on the function button to open the dialog.  
 ![Reference Dialog](./images/ReferenceDialog.png)  
-It works best if you have a single table that holds your URLs. This will reduce any potential error due to replication of the URL  
+It works best if you have a single table that holds your URLs. This will reduce any potential error due to replication of the URL.  
+![Base Table wih URL](./images/BaseTable.png)  
+
 
