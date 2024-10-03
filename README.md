@@ -11,3 +11,4 @@ It works best if you have a single table that holds your URLs. This will reduce 
 Here you can see that I created a reference layer that outlines the GA Capital building. The geojson file has modified the values to put the reference layer into the middle of the Atlantic however it originally started over the GA Capital building.  
 ![GA Capital Building](./images/GA_Capital.png)  
 
+using https://geojson.io for making polygons  
